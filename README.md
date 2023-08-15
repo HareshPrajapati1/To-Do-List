@@ -3,4 +3,5 @@ Prioritize tasks, mark them as completed, and enjoy the satisfaction of crossing
 Simplify your life and increase your productivity – try our Simple To-Do List App today."
 
 (1) That's the Splash Screen of the App
-<img src="(https://github.com/HareshPrajapati1/To-Do-List/assets/125352496/b55db4a9-7a33-4768-b5ca-9dada2435bed|width="300dp" height="300dp">)" width="150" height="280">
+<img src="https://github.com/HareshPrajapati1/To-Do-List/assets/125352496/d68487da-ac70-4b6f-b106-0b06982f9f76" alt="Screenshot" width="300">
+
